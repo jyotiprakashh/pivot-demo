@@ -166,7 +166,7 @@ export function createHeader(config) {
     {
       icon: '🔗',
       label: 'Connect',
-      dropdownOptions: ['Connect to Local CSV', 'Connect to Local JSON'],
+      dropdownOptions: ['Connect to Local CSV'],
     },
     {
       icon: '📤',
