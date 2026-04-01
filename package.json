@@ -1,0 +1,24 @@
+{
+  "name": "simple-js-demo",
+  "private": true,
+  "version": "1.0.30",
+  "dependencies": {
+    "@assemblyscript/loader": "^0.27.33",
+    "@mindfiredigital/pivothead": "^1.21.0",
+    "@mindfiredigital/pivothead-analytics": "^1.0.10",
+    "@mindfiredigital/pivothead-llm": "^3.0.0",
+    "chart.js": "^4.4.3",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.7",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.6",
+    "wabt": "^1.0.39"
+  }
+}
